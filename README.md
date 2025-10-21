@@ -132,4 +132,3 @@ public function facilities()
 
 ---
 
-**Author**: Riana Nur Anisa
